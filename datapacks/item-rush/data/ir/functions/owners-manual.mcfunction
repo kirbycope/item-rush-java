@@ -1,0 +1,1 @@
+give @a written_book{author:Kirbycope,title:"Item Rush",pages:['["",{"text":"Start","color":"dark_green","clickEvent":{"action":"run_command","value":"/trigger rushing set 1"}},{"text":" race","color":"reset"}]'],display:{Lore:["Owner's Manual"]}}
