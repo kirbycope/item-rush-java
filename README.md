@@ -9,7 +9,7 @@ Use an existing world that is already setup to use the datapack.
 
 ## Datapack Installation
 Use this datapack with your own worlds.
-1. Download the [zip file](https://github.com/kirbycope/expanding-world/raw/main/item-rush.zip)
+1. Download the [zip file](https://github.com/kirbycope/item-rush-java/raw/main/item-rush.zip)
 1. Install for a
    * [New World](https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack#At_the_creation_of_a_world)
    * [Existing World](https://minecraft.fandom.com/wiki/Tutorials/Installing_a_data_pack#In_an_existing_world)
