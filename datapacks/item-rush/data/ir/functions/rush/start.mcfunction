@@ -1,5 +1,5 @@
 # Add objectives
-function ir:rush/add-objectives
+function ir:add-objectives
 
 # Clear items
 clear @a
